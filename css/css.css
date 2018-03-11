@@ -1,5 +1,5 @@
 .img-fluid {width: 800px;margin-bottom: 100px}
-.home{font-family: 'Permanent Marker', cursive;text-align: center;color: white;}
+.home{font-family: 'Permanent Marker', cursive;text-align: center;color: white; font-size: 100px}
 .navbar{font-family: 'Fredoka One', cursive;}
 a{font-family: 'Shadows Into Light', cursive;}
 .aboutus{font-family: 'Permanent Marker', cursive;}
@@ -12,3 +12,8 @@ p {font-family: 'Jura', sans-serif;}
 .container{margin-bottom: 50px}
 .nawung{color: #3399ff;}
 .nawung1{color: #3399ff;}
+.lab{margin-bottom: 50px}
+.rx1 {margin: 10px 0px 20px 10px; width: 500px}
+.isi {color: white}
+.rx {margin: 10px 0px 20px 10px; width: 350px}
+.card-img-top {width: 285px; height: 230px}
