@@ -1,0 +1,39 @@
+body{
+	background-size: cover;
+	background-color: #3D3D66 ;
+}
+.jumbotron{
+		  background-color: #4A4A8B
+}
+h1{
+	font-family: 'Concert One', cursive; 
+	font-size: 60px; 
+	text-align: center; 
+	color: white;
+	border-style: solid;
+}
+p{
+  font-family: 'Boogaloo', cursive; 
+  font-size: 25px; 
+  text-align: center; 
+  color: white
+}
+li{
+	font-family: 'Boogaloo', cursive; 
+	font-size: 25px; 
+	text-align: center; 
+	color: white;
+	background-color: #2D383A;
+	border-style: dashed;
+}
+.footer{
+		text-align:center; 
+		color: white; 
+		font-family: 'Mina', sans-serif;
+		background-color: black
+}
+div{
+	font-family: 'Oswald', sans-serif; 
+	font-size: 20px
+
+}
