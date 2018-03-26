@@ -1,5 +1,5 @@
 .img-fluid {width: 800px;margin-bottom: 100px}
-.home{font-family: 'Permanent Marker', cursive;text-align: center;color: white; font-size: 100px}
+.home{font-family: 'Press Start 2P', cursive;text-align: center;color: white; font-size: 100px}
 .navbar{font-family: 'Fredoka One', cursive;}
 a{font-family: 'Shadows Into Light', cursive;}
 .aboutus{font-family: 'Permanent Marker', cursive;}
@@ -23,3 +23,4 @@ p {font-family: 'Gloria Hallelujah', cursive; background-color:transparent white
 .btn {background-color: orange; border: orange;}
 .sub {font-family: 'Joti One', cursive;}
 .belakang {background-color: #001a33; border-radius: 15px 15px 15px 15px;margin: 15px 50px 15px 50px; padding-left: 20px;border-style:solid; border-width: 2px;border-color: white;}
+.card-title {font-family: 'Joti One', cursive;}
