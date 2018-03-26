@@ -3,21 +3,23 @@
 .navbar{font-family: 'Fredoka One', cursive;}
 a{font-family: 'Shadows Into Light', cursive;}
 .aboutus{font-family: 'Permanent Marker', cursive;}
-.footer{color: white;}
-p {font-family: 'Jura', sans-serif;}
+.footer{background-color: white;padding-bottom: 25px; padding-top: 25px; margin-top: 100px; text-align: center;}
+p {font-family: 'Gloria Hallelujah', cursive; background-color:transparent white;}
 .logo {width: 40px}
-.manu{text-align: center; color: white; margin-bottom: 50px; margin-top: 50px;}
+.manu{text-align: center; color: white; margin-bottom: 50px; margin-top: 50px; font-family: 'Press Start 2P', cursive;}
 .white{color: white; margin-top: 30px; margin-bottom: 30px;}
 .lab{width: 500px;}
 .container{margin-bottom: 50px}
 .nawung{color: #3399ff;}
 .nawung1{color: #3399ff;}
-.lab{margin-bottom: 50px}
-.rx1 {margin: 10px 0px 20px 10px; width: 500px}
+.lab{margin-bottom: 50px; border-radius: 20px 20px 20px 20px; border-style:solid; border-width: 5px;border-color: white;}
+.rx1 {margin: 10px 0px 20px 10px; width: 500px; border-radius: 20px 20px 20px 20px;}
 .isi {color: white}
-.rx {margin: 10px 0px 20px 10px; width: 350px}
+.rx {margin: 10px 0px 20px 10px; width: 350px; border-radius: 20px 20px 20px 20px;}
 .card-img-top {width: 285px; height: 230px}
 .klik {color: black;}
 .card {width: 18rem;}
 .definisi {margin-left: 190px;}
 .btn {background-color: orange; border: orange;}
+.sub {font-family: 'Joti One', cursive;}
+.belakang {background-color: #001a33; border-radius: 15px 15px 15px 15px;margin: 15px 50px 15px 50px; padding-left: 20px;border-style:solid; border-width: 2px;border-color: white;}
